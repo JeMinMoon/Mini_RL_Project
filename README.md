@@ -5,4 +5,4 @@
 To install the base Gymnasium library, use ```pip install gymnasium```
 ### stable-baselines3
 Install the Stable Baselines3 package:
-```pip install stable-baselines3```
+```pip install stable-baselines3[extra]```
